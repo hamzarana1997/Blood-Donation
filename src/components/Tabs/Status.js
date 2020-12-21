@@ -1,0 +1,10 @@
+import React from 'react'
+import { View, Text, Button } from 'react-native'
+
+export default function Status({ navigation }) {
+    return (
+        <View>
+            <Text>Status</Text>
+        </View>
+    )
+}
